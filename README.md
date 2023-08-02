@@ -1,6 +1,6 @@
 ##
 
-### Olá, bem vindo(a) ao meu perfil! 👋😄
+### Olá, bem-vindo(a) ao meu perfil! 👋😄
 
 ##
 
