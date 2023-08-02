@@ -3,7 +3,7 @@
 ##
 
 <div style="display: inline_block;" align="center">
-  [![Matheus Araújo's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxtheus)](https://github.com/xxtheus/github-readme-stats)
+  ![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxtheus&show_icons=true&theme=radical)
   <!--
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=xxtheus&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&border_radius=22"/>
   -->
