@@ -23,7 +23,7 @@
       <img align="center" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" style="max-width: 100%;padding-top: 0.5rem;"/>
       <img align="center" alt="ExpressJS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" style="max-width: 100%;padding-top: 0.5rem;"/>
       <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" style="max-width: 100%;padding-top: 0.5rem;"/>
-      <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" style="max-width: 100%;padding-top: 0.5rem;"/>
+      <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" style="max-width: 100%;padding-top: 8px;"/>
     <br/>
     <br/>
   <kbd align="center">
