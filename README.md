@@ -10,5 +10,5 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=xxtheus&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxtheus"/>
 </picture>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
