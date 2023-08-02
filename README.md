@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, bem vindo(a) ao meu perfil! 👋
 
 <!--
 **XxTheus/XxTheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
